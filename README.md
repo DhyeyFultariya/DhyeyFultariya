@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhyeyFultariya
-- 👀 I’m interested in Web and App Devlopment
+- 👀 I’m interested in Devlopment
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me massage on github

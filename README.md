@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Development<br>🌱 I learned and MERN Web Development<br>💞️ I’m looking to collaborate on github<br>📫 How to reach me massage on LinkedIn(link in my github profile).<br>😄 Pronouns: He/Him<br>⚡ Fun fact: all my known called me as Fultariya which is my surname.😊😊 But I like.
+👀 I’m interested in Development<br>🌱 I learned MERN Web Development<br>💞️ I’m looking to collaborate on github<br>📫 How to reach me massage on LinkedIn(link in my github profile).<br>😄 Pronouns: He/Him<br>⚡ Fun fact: all my known called me as Fultariya which is my surname.😊😊 But I like.
 
 
 ## 🌐 Socials:

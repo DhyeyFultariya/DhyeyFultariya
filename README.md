@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m MERN Developer<br>👯 I’m interested in DS/ML <br>🌱 I’m currently learning Next.js<br>💬 Ask me about anything<br>🏫 I’m pursuing my B.E. Degree form L.D. College of Engineering
+🔭 I’m Web/Software Developer<br>👯 I’m interested in DS/ML <br>🌱 I’m currently learning Next.js<br>💬 Ask me about anything<br>🏫 I’m pursuing my B.E. Degree form L.D. College of Engineering
 
 
 ## 🌐 Socials:
